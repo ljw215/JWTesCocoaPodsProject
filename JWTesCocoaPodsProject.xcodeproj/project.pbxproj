@@ -101,10 +101,7 @@
 		720D4468204FF7310096924A /* JWTesCocoaPodsProject */ = {
 			isa = PBXGroup;
 			children = (
-				720D4469204FF7310096924A /* AppDelegate.h */,
-				720D446A204FF7310096924A /* AppDelegate.m */,
-				720D446C204FF7310096924A /* ViewController.h */,
-				720D446D204FF7310096924A /* ViewController.m */,
+				720D44D92050071E0096924A /* Classes */,
 				720D446F204FF7310096924A /* Main.storyboard */,
 				720D4472204FF7310096924A /* Assets.xcassets */,
 				720D4474204FF7310096924A /* LaunchScreen.storyboard */,
@@ -130,6 +127,17 @@
 				720D448F204FF7310096924A /* Info.plist */,
 			);
 			path = JWTesCocoaPodsProjectUITests;
+			sourceTree = "<group>";
+		};
+		720D44D92050071E0096924A /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				720D4469204FF7310096924A /* AppDelegate.h */,
+				720D446A204FF7310096924A /* AppDelegate.m */,
+				720D446C204FF7310096924A /* ViewController.h */,
+				720D446D204FF7310096924A /* ViewController.m */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
